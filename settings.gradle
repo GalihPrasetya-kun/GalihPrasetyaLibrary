@@ -1,0 +1,3 @@
+include ':GalihPrasetyaLibrary'
+include ':app'
+rootProject.name = "ProjectGalihPrasetyaLibrary"
