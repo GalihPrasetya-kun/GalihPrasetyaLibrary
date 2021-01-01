@@ -1,13 +1,13 @@
 package com.example.galihprasetyalibrary;
 
-public class Matematika {
+public class Aritmatika {
     private double bil1;
     private double bil2;
 
-    public Matematika() {
+    public Aritmatika() {
     }
 
-    public Matematika(double bil1, double bil2) {
+    public Aritmatika(double bil1, double bil2) {
         this.bil1 = bil1;
         this.bil2 = bil2;
     }
@@ -44,3 +44,4 @@ public class Matematika {
         return bil1/bil2;
     }
 }
+
